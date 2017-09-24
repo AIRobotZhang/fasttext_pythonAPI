@@ -1,5 +1,5 @@
 # fasttext_pythonAPI
-兼容新版本的c++版fasttext
+与新版本的c++版fasttext兼容
 #### fastText的python API 接口由于c++版本的升级而不能相互兼容
 #### 主要是不能载入c++版本训练的模型
 #### 通过浏览相关网站，发现很多人都遇到同样的问题，并且也有些人给出了修改方法，
